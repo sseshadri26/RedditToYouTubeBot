@@ -287,10 +287,10 @@ def createVoice (text, fileName):
 # create the objects from the imported modules
 
 # reddit api login
-reddit = praw.Reddit(client_id='mUXnAll0g7e1PA',
-                     client_secret='AhQYo7DX07gp90nG13TecauP34U',
+reddit = praw.Reddit(client_id='id, something',
+                     client_secret='secret, something',
                      username='gullu2002',
-                     password='Buragarawa123',
+                     password='a password, im not telling you
                      user_agent='r to YT by u/gullu2002')
 
 
